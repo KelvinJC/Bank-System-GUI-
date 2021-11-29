@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 25 21:48:20 2021
-
-@author: KAIZEN
-"""
-# -*- coding: utf-8 -*-
-
 from tkinter import *
 import os
 import random
